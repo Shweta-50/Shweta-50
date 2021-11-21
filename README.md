@@ -1,5 +1,5 @@
 <p align="center"><img src="shweta.png"></p>
-<!-- <h1 align="center">Hi 👋, I'm Shweta Yadav</h1> -->
+<h1 align="center">Hi 👋, I'm Shweta Yadav</h1>
 <h3 align="center">I'm a front-end web developer. I have in good knowledge of Web Design technologies and I love to learn new technologies. Designing and Coding have been my passion since the days I started working with computers but I found myself into web design since last year. I enjoy creating beautifully designed, intuitive and functional websites.</h3>
 
 - 👨‍💻 All of my projects are available at [https://shweta-50.github.io/Shweta-Yadav/](https://shweta-50.github.io/Shweta-Yadav/)
